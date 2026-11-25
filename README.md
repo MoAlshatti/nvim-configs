@@ -1,5 +1,5 @@
 ## Usage
 
-Run `git clone https://github.com/<you>/nvim ~/.config/nvim`
+Run `git clone https://github.com/MoAlshatti/nvim-configs ~/.config/nvim`
 
 
